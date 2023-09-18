@@ -1,6 +1,6 @@
 # API_REST
 
-Este projeto de API RESTful é uma manifestação tangível das habilidades que adquiri durante um curso especializado em desenvolvimento de APIs. 
+Este projeto de API RESTful é uma demonstração das habilidades que adquiri durante um curso especializado em desenvolvimento de APIs. 
 O foco principal foi aprender a construir, testar e documentar APIs REST funcionais e eficientes, utilizando tecnologias modernas, incluindo Node.js, Express, Express-Validator, Consign e o banco de dados NoSQL NeDB. 
 Durante o desenvolvimento, utilizei a ferramenta Postman para testar e validar as rotas da API.
 
